@@ -52,9 +52,3 @@ Semua rute di bawah ini menggunakan base URL: `http://localhost:3000`
 
 ---
 
-## 💻 Cara Menjalankan Projek di Lokal
-
-### 1. Clone Repositori
-```bash
-git clone [https://github.com/yunanda0050/backEnd-onlineRestaurant.git](https://github.com/yunanda0050/backEnd-onlineRestaurant.git)
-cd backEnd-onlineRestaurant
